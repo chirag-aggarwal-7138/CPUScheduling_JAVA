@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CPU Scheduling Algorithm Visualizer
 
 This project is a simple CPU scheduling algorithm visualizer implemented in Java. It includes the following algorithms:
@@ -11,6 +10,3 @@ This project is a simple CPU scheduling algorithm visualizer implemented in Java
 ## How to Run
 
 1. Compile the project:
-=======
-# CPUScheduling_JAVA
->>>>>>> 4f8e63d (initial commit)
